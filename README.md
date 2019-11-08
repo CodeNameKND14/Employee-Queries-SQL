@@ -1,4 +1,6 @@
 # Employee queries
+![1-Logo](Resources/DB.png)
+
 In this assignment, I designed the tables to hold data in the CSVs files, imported the CSVs into a SQL database, and performed the below:
 
 
@@ -40,3 +42,6 @@ Completed the below:
 
 
 - In descending order, listed the frequency count of employee last names, i.e., how many employees share each last name.
+
+Below is a snapshot of the Entity Relationship Diagram (ERD)
+![1-Logo](Employee_ERD.png)
